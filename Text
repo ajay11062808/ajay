@@ -1,0 +1,3 @@
+sudo cp -r Downloads/ZAP_2.14.0/* /usr/local/bin/owaspzap
+sudo ln -s /usr/local/bin/owaspzap/zap.sh /usr/local/bin/zap
+sudo chmod +x /usr/local/bin/zap
